@@ -1,0 +1,4 @@
+Class Main{
+public static void main(int string[] args){
+system.out.println("hii");
+}
